@@ -1,0 +1,218 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="B0131027-69A6-9FCE-F19E-789F2AC02D40" name="Equipo">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 09:55:29 UTC</createdTime>
+<generatorID>A8DC7190-3142-A68A-8D03-FE294704D52B</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Id" id="E453CEE0-D1B7-ECA9-57D1-AD49BD3E1438">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 09:55:29 UTC</createdTime>
+<generatorID>4CC589E9-22D8-4B0F-6876-32AFB8653596</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Nombre" id="ED0B449F-AB1B-FF6D-13D1-8FEF9A81C463">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 09:55:29 UTC</createdTime>
+<generatorID>7220D3BC-3B54-55DF-C8D4-7017F9870717</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>50 CHAR</dataTypeSize>
+<ownDataTypeParameters>50 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Liga" id="24D4DEF2-46DF-1D84-2B67-6D8663EC7F56">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 09:55:29 UTC</createdTime>
+<generatorID>07741CDE-FAE9-49D0-3E2E-E37731423B27</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>25 CHAR</dataTypeSize>
+<ownDataTypeParameters>25 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TemporadaInicio" id="A8049360-BDC4-8E10-D163-97E5C40B8CE1">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 09:55:29 UTC</createdTime>
+<generatorID>586962D9-CFE8-CEA5-3031-34F66F6A37E0</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="TemporadaFin" id="9AD28F0E-7111-33BB-6159-CF934BCEDE03">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 09:55:29 UTC</createdTime>
+<generatorID>4704F261-4AFE-5FDC-EEBF-BF5091C745C9</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="MinimoJugadores" id="15CA2114-A26C-ED86-8E12-BA1E7D374E74">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 09:55:29 UTC</createdTime>
+<generatorID>5F967EAC-9993-3E4B-CAF8-82AE918B88DF</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT042</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="MaximoJugadores" id="E711B961-62EF-AFCB-DD21-E0DD38255991">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 09:55:29 UTC</createdTime>
+<generatorID>A1F5FFF8-4ADC-8A99-19F4-0EC004285A87</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT042</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Foto" id="F1D93DE4-16F6-16AE-94E0-24725C4765CD">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 09:55:29 UTC</createdTime>
+<generatorID>4BF1A626-778C-2801-D3B9-26A97E6AF011</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>100 CHAR</dataTypeSize>
+<ownDataTypeParameters>100 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CategoriaId" id="BC9B5273-19E1-C13C-50AC-4D8F74662B02">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 09:55:29 UTC</createdTime>
+<generatorID>488F7782-25B3-2FE1-14EA-04EFBA8767CD</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Categoria_Categoria_ID" id="D70A6D9C-8E09-72B0-7030-D91A3610AEC6">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 09:55:29 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="CategoriaId1" id="486F9AC6-851E-DC0B-C389-5CC8DA1395E5">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:07:38 UTC</createdTime>
+<generatorID>CD7952D9-2DE0-785E-DA4C-4AC2EC70A1C5</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Categoria_Categoria_ID2" id="BD3E28F5-04CA-1E4A-9F5D-287D53D52874">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:07:38 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Categoria_Id" id="ECEBFEF2-5A81-DECB-054F-D9CB3E2A3D35">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:11:55 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Categoria_Categoria_ID1" id="C899CF3D-3B38-6C17-92A4-23B7FCE284E3">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:13:35 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT019</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Categoria_Id2" id="DE4ACF10-A98E-2CD2-E3F0-418E6A0C72C3">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:15:24 UTC</createdTime>
+<generatorID>99C64783-BB64-DB15-A3EC-5CA8B14073B8</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="B35CFBDB-679F-0CBA-E4B3-DC18E9FB30DE" referredColumn="7CCECACC-E8CE-D37C-F79C-82BE6FBE13F6"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="B376EE7C-BEFB-257B-D48F-0C4AB9FB15AD" name="Equipo_PK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 09:55:29 UTC</createdTime>
+<generatorID>A2173FC6-17FA-F97E-63E0-111B3FA66D70</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="E453CEE0-D1B7-ECA9-57D1-AD49BD3E1438"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="F078280F-B338-DBD0-2108-B219A9834456" name="Equipo_Categoria_FK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:15:24 UTC</createdTime>
+<generatorID>D81FC4AF-4CB4-BADE-D94E-06CBB0BA0392</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="DE4ACF10-A98E-2CD2-E3F0-418E6A0C72C3"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

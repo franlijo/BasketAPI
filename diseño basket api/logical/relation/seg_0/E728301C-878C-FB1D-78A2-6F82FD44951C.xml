@@ -1,0 +1,20 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="TareaImagenes" directorySegmentName="seg_0" id="E728301C-878C-FB1D-78A2-6F82FD44951C">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:47:09 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<sourcePk>23004387-8F2B-04BB-7883-756ED65AE9BB</sourcePk>
+<identifying>false</identifying>
+<nameOnTarget>TareaId</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>47A1879F-A7BE-395F-6AD4-ABBEC10B81BA</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>D96A6128-3B08-6079-8358-2B6DE12E1152</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

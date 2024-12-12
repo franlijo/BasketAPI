@@ -1,0 +1,398 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Entity class="oracle.dbtools.crest.model.design.logical.Entity" directorySegmentName="seg_0" id="47A1879F-A7BE-395F-6AD4-ABBEC10B81BA" name="Tarea">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:10:19 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<adequatelyNormalized>NO</adequatelyNormalized>
+<expectedVolumes>0</expectedVolumes>
+<fwdEngineeringStrategyName>Single Table</fwdEngineeringStrategyName>
+<growthPercent>0</growthPercent>
+<growthType>Year</growthType>
+<maxVolumes>9999999</maxVolumes>
+<minVolumes>0</minVolumes>
+<normalForm>Third</normalForm>
+<attributes itemClass="oracle.dbtools.crest.model.design.logical.Attribute">
+<Attribute name="Id" id="714F3FE7-4AFC-8C8D-6956-918CDA484B09">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:10:34 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Nombre" id="83F12918-C892-3ABE-81EC-ED696897A776">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:10:50 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>30 CHAR</dataTypeSize>
+<ownDataTypeParameters>30 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Descripcion" id="E8879B67-B56E-51D9-6B06-ECA7BE139C1E">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:11:07 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>1000 CHAR</dataTypeSize>
+<ownDataTypeParameters>1000 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Version" id="A4F2DE1F-964F-5411-094D-0E621BC52D1A">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:11:43 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT035</logicalDatatype>
+<dataTypeSize>6 CHAR</dataTypeSize>
+<ownDataTypeParameters>6 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Inicio" id="2A463F56-6EB3-D876-24C1-A2585B544418">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:12:21 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Fin" id="FC2EEDC4-B55C-36D8-D2A1-D287C597D2F1">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:12:33 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT007</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Estado" id="8270EC62-306E-447B-3FD7-1633EAE27E0E">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:12:46 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>15 CHAR</dataTypeSize>
+<ownDataTypeParameters>15 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Dominio" id="07018DCC-A22A-E5EF-EF0B-F8E141D63762">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:14:04 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT035</logicalDatatype>
+<dataTypeSize>15 CHAR</dataTypeSize>
+<ownDataTypeParameters>15 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="JugadoresMin" id="114A0AC2-418C-9F1F-78FC-022DEDB25043">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:14:34 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT042</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="JugadoresMax" id="D37FDC49-D95A-DDD1-339B-E9540F290D78">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:15:11 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT042</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Ataque" id="95868BC5-FDA6-C5FF-9588-176E3E9C7FF9">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:15:43 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT042</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Defensa" id="67012BF4-0FA4-802E-2D8A-C9B854B93147">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:16:01 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT042</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="TiempoMax" id="B2673EB7-E2A0-FF7D-FDD2-C15ACE9739D4">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:16:18 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT042</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="TiempoMin" id="072DD02A-56A0-BC13-17FE-F4DDFCB2865B">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:16:36 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT042</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="NivelFisico" id="96AF3A79-EC40-8918-5DDB-53DC15F948D1">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:17:07 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT042</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="TecnicoIndividual" id="CC4C1BE2-6393-08A0-6338-610585BBE7B8">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:17:58 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT042</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="TecnicoColectivo" id="16D58981-F3E7-5760-AB3C-09F8E7F8E688">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:18:13 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT042</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="TacticoIndividual" id="39C33201-B0B5-B9E7-C738-58E5BC7AEB7E">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:18:26 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT042</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="TacticoColectivo" id="78602EA7-3FC5-C8C6-C010-D2901BFB979D">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:18:48 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT042</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Foto" id="8BFC5638-C924-230B-A6EF-E4EF1C32D9FB">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:19:03 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>100 CHAR</dataTypeSize>
+<ownDataTypeParameters>100 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="video" id="D1D225AA-0C3B-FD3E-A7EC-A086707C687D">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:19:16 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>100 CHAR</dataTypeSize>
+<ownDataTypeParameters>100 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Material" id="4A583CA2-F087-8855-AFD9-3DC0613EA7D1">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:19:37 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>100 CHAR</dataTypeSize>
+<ownDataTypeParameters>100 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ObjetivoPrincipal" id="AD47E312-7127-188C-F801-0848864CEBFA">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:20:03 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>25 CHAR</dataTypeSize>
+<ownDataTypeParameters>25 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="ObjetivoSecundario" id="E508654D-AF91-CBE6-6CDF-7ED8B6D4790B">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:20:39 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>25 CHAR</dataTypeSize>
+<ownDataTypeParameters>25 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Comentario" id="7EBD692E-5C67-4CAE-8B14-AB8CBD312E64">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:21:07 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>500 CHAR</dataTypeSize>
+<ownDataTypeParameters>500 CHAR,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Id1" id="E8107845-F34C-922D-342C-502D02ABC859">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:22:31 UTC</createdTime>
+<generatorID>CFE825FC-0A0F-6D15-2211-2A42B4BBC81D</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<nullsAllowed>true</nullsAllowed>
+<referedAttribute>714F3FE7-4AFC-8C8D-6956-918CDA484B09</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+<Attribute name="Id2" id="97264BC1-1FB1-7D2E-77FC-649F1B66EAB5">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:23:34 UTC</createdTime>
+<generatorID>26CE5CF4-1234-A411-D1DE-764F3C6F5DFA</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<referedAttribute>C6437D53-A414-06D2-13E7-84D521E9B666</referedAttribute>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+</Attribute>
+</attributes>
+<identifiers itemClass="oracle.dbtools.crest.model.design.logical.CandidateKey">
+<identifier id="23004387-8F2B-04BB-7883-756ED65AE9BB" name="Tarea PK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:10:48 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<shouldEngineer>false</shouldEngineer>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="false"/>
+</engineerTo>
+<pk>true</pk>
+<usedAttributes>
+<attributeRef>714F3FE7-4AFC-8C8D-6956-918CDA484B09</attributeRef>
+</usedAttributes>
+</identifier>
+</identifiers>
+</Entity>

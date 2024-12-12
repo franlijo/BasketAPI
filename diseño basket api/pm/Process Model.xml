@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="5155DA9A-8C4C-FC77-69B0-65F1B40548DC">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 08:59:02 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</ProcessModel>

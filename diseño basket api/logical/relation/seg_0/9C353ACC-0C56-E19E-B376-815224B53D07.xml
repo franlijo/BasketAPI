@@ -1,0 +1,22 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="EntrenamientoTarea" directorySegmentName="seg_0" id="9C353ACC-0C56-E19E-B376-815224B53D07">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:49:12 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<sourcePk>23004387-8F2B-04BB-7883-756ED65AE9BB</sourcePk>
+<targetPk>8D839BBF-0767-D45A-0744-FD5DCEF82362</targetPk>
+<identifying>false</identifying>
+<nameOnSource>TareaId</nameOnSource>
+<nameOnTarget>EntrenamientoId</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>47A1879F-A7BE-395F-6AD4-ABBEC10B81BA</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>50235749-D351-9F4D-8AF4-DCA6CFFC40B0</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>

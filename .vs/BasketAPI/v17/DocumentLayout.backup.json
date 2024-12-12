@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\proyectoGrado\\BasketAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\entidades\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\entidades\\jugador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\controllers\\partidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\controllers\\partidocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\utilidades\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\utilidades\\automapperprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\dtos\\partidocreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\dtos\\partidocreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\dtos\\partidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\dtos\\partidodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\dtos\\entrenamientodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\dtos\\entrenamientodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\dtos\\entrenamientocreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\dtos\\entrenamientocreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\entidades\\entrenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\entidades\\entrenamiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\dtos\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\dtos\\tareadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\dtos\\tareaimagencreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\dtos\\tareaimagencreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\entidades\\tareaimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\entidades\\tareaimagen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\dtos\\tareacreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\dtos\\tareacreaciondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\dtos\\tareadetallesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\dtos\\tareadetallesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\controllers\\tareacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\entidades\\entrenamientotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\entidades\\entrenamientotarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\dtos\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|c:\\proyectogrado\\basketapi\\basketapi\\dtos\\editarclaimdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B3C621-A5C5-4536-873B-BD91E3D668DB}|BasketAPI\\BasketAPI.csproj|solutionrelative:basketapi\\dtos\\editarclaimdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Jugador.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Entidades\\Jugador.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\Entidades\\Jugador.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Entidades\\Jugador.cs",
+              "RelativeToolTip": "BasketAPI\\Entidades\\Jugador.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T10:06:10.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PartidoController.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Controllers\\PartidoController.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\Controllers\\PartidoController.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Controllers\\PartidoController.cs",
+              "RelativeToolTip": "BasketAPI\\Controllers\\PartidoController.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAgwHoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:42:10.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PartidoCreacionDTO.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\PartidoCreacionDTO.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\DTOs\\PartidoCreacionDTO.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\PartidoCreacionDTO.cs",
+              "RelativeToolTip": "BasketAPI\\DTOs\\PartidoCreacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:41:37.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PartidoDTO.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\PartidoDTO.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\DTOs\\PartidoDTO.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\PartidoDTO.cs",
+              "RelativeToolTip": "BasketAPI\\DTOs\\PartidoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:41:12.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Entrenamiento.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Entidades\\Entrenamiento.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\Entidades\\Entrenamiento.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Entidades\\Entrenamiento.cs",
+              "RelativeToolTip": "BasketAPI\\Entidades\\Entrenamiento.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T13:18:48.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntrenamientoDTO.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\EntrenamientoDTO.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\DTOs\\EntrenamientoDTO.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\EntrenamientoDTO.cs",
+              "RelativeToolTip": "BasketAPI\\DTOs\\EntrenamientoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:53:46.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntrenamientoCreacionDTO.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\EntrenamientoCreacionDTO.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\DTOs\\EntrenamientoCreacionDTO.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\EntrenamientoCreacionDTO.cs",
+              "RelativeToolTip": "BasketAPI\\DTOs\\EntrenamientoCreacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T12:53:33.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TareaController.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Controllers\\TareaController.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\Controllers\\TareaController.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Controllers\\TareaController.cs",
+              "RelativeToolTip": "BasketAPI\\Controllers\\TareaController.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAcwHwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:51:42.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TareaDetallesDTO.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\TareaDetallesDTO.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\DTOs\\TareaDetallesDTO.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\TareaDetallesDTO.cs",
+              "RelativeToolTip": "BasketAPI\\DTOs\\TareaDetallesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:44:44.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AutoMapperProfiles.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Utilidades\\AutoMapperProfiles.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\Utilidades\\AutoMapperProfiles.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Utilidades\\AutoMapperProfiles.cs",
+              "RelativeToolTip": "BasketAPI\\Utilidades\\AutoMapperProfiles.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:49:52.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TareaCreacionDTO.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\TareaCreacionDTO.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\DTOs\\TareaCreacionDTO.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\TareaCreacionDTO.cs",
+              "RelativeToolTip": "BasketAPI\\DTOs\\TareaCreacionDTO.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T19:19:51.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TareaImagen.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Entidades\\TareaImagen.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\Entidades\\TareaImagen.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Entidades\\TareaImagen.cs",
+              "RelativeToolTip": "BasketAPI\\Entidades\\TareaImagen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:44:52.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TareaDTO.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\TareaDTO.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\DTOs\\TareaDTO.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\TareaDTO.cs",
+              "RelativeToolTip": "BasketAPI\\DTOs\\TareaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T16:43:23.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TareaImagenCreacionDTO.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\TareaImagenCreacionDTO.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\DTOs\\TareaImagenCreacionDTO.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\TareaImagenCreacionDTO.cs",
+              "RelativeToolTip": "BasketAPI\\DTOs\\TareaImagenCreacionDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:46:49.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UsuarioDTO.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\UsuarioDTO.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\DTOs\\UsuarioDTO.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\UsuarioDTO.cs",
+              "RelativeToolTip": "BasketAPI\\DTOs\\UsuarioDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:47:25.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EntrenamientoTarea.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Entidades\\EntrenamientoTarea.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\Entidades\\EntrenamientoTarea.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Entidades\\EntrenamientoTarea.cs",
+              "RelativeToolTip": "BasketAPI\\Entidades\\EntrenamientoTarea.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T16:09:04.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EditarClaimDTO.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\EditarClaimDTO.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\DTOs\\EditarClaimDTO.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\DTOs\\EditarClaimDTO.cs",
+              "RelativeToolTip": "BasketAPI\\DTOs\\EditarClaimDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T12:44:18.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BasketAPI\\appsettings.json",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\appsettings.json",
+              "RelativeToolTip": "BasketAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-05T10:39:14.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BasketAPI\\Program.cs",
+              "ToolTip": "C:\\proyectoGrado\\BasketAPI\\BasketAPI\\Program.cs",
+              "RelativeToolTip": "BasketAPI\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAnwFEAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T10:27:43.142Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

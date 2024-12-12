@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BasketAPI",
+    "\\BasketAPI\\Controllers",
+    "\\BasketAPI\\DTOs",
+    "\\BasketAPI\\Entidades",
+    "\\BasketAPI\\Migrations",
+    "\\BasketAPI\\obj",
+    "\\BasketAPI\\Properties",
+    "\\BasketAPI\\Servicios",
+    "\\BasketAPI\\Utilidades"
+  ],
+  "SelectedNode": "\\BasketAPI\\DTOs\\JugadorCreacionDTO.cs",
+  "PreviewInSolutionExplorer": false
+}

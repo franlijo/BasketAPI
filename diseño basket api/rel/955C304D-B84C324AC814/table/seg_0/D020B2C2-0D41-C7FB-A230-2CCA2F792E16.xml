@@ -1,0 +1,75 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="D020B2C2-0D41-C7FB-A230-2CCA2F792E16" name="EntrenamientoJugador">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Jugador_Id" id="5ABD0E27-4E77-9C28-F068-ACD7B3D8A22C">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="6872791F-EEED-9888-2851-18174334524D" referredColumn="CA2800EB-3B74-862D-5A57-CBF47DBFBBDE"/>
+</associations>
+</Column>
+<Column name="Entrenamiento_Id" id="121B92C4-C346-90E4-E370-A992276A6773">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="FD0EB2B4-7DE8-3B3B-A59F-D1CA9E02C5DA" referredColumn="D70737AD-B706-D76E-88B5-B77C0C72C215"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="BE20A94D-D1B0-826F-D4CA-24AED67B636B" name="EntrenamientoJugador_PK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="5ABD0E27-4E77-9C28-F068-ACD7B3D8A22C"/>
+<colUsage columnID="121B92C4-C346-90E4-E370-A992276A6773"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="46D7CA2E-6E64-7A49-E5EB-A6181EF36E7A" name="EntrenamientoJugador_Jugador_FK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<generatorID>85917FA2-96E7-6827-E288-1B9DD34AC9A0</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="5ABD0E27-4E77-9C28-F068-ACD7B3D8A22C"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="8D88EEA0-ABBE-76F3-F6D0-5EEEFB7C0AA1" name="EntrenamientoJugador_Entrenamiento_FK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<generatorID>85917FA2-96E7-6827-E288-1B9DD34AC9A0</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="121B92C4-C346-90E4-E370-A992276A6773"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

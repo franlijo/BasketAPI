@@ -1,0 +1,72 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="8109FA56-6CF7-2578-E36A-B9B04E5975EE" name="Categoria">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:13:41 UTC</createdTime>
+<generatorID>0FC2B63F-B0DF-F77B-96F3-A659B9C93A72</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Id" id="7CCECACC-E8CE-D37C-F79C-82BE6FBE13F6">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:13:41 UTC</createdTime>
+<generatorID>944C3C56-4DFF-AF7B-E385-FC5B5BB38DEB</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Nombre" id="647E09B6-3DF2-D76E-B148-678FCA732877">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:13:41 UTC</createdTime>
+<generatorID>211F20E7-B25E-82CA-D783-D7DF242F2276</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>25 CHAR</dataTypeSize>
+<ownDataTypeParameters>25 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="Genero" id="2D535619-C242-C0C3-BF6C-70904EACEC12">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:13:41 UTC</createdTime>
+<generatorID>8E478A7B-8AC1-0596-9BAF-8FA349717C7B</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT037</logicalDatatype>
+<dataTypeSize>10 CHAR</dataTypeSize>
+<ownDataTypeParameters>10 CHAR,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+<Column name="EdadMaxima" id="3E1A99E3-4465-5783-4F1B-341EB6C6B655">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:13:41 UTC</createdTime>
+<generatorID>F17DE7C2-EF51-4492-BD3C-1CFDC5843AF3</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT042</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<autoIncrementCycle>false</autoIncrementCycle>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="704E6CC4-9976-4940-7221-346EE370293F" name="Categoria_PK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:13:41 UTC</createdTime>
+<generatorID>179BDDB9-2D90-FC35-FB09-4957F74218DF</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="7CCECACC-E8CE-D37C-F79C-82BE6FBE13F6"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

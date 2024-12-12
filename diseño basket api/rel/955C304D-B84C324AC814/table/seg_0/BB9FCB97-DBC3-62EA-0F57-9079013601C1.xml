@@ -1,0 +1,75 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="BB9FCB97-DBC3-62EA-0F57-9079013601C1" name="TareaElementoTecnico">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="ElementoTecnico_Id" id="A97DC4DC-1BAC-23BA-712F-7DB331DDE864">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="7338513C-E245-E296-B323-C64C90F34024" referredColumn="77FE9F3A-E3E6-8D89-87D2-B4C61F690FFC"/>
+</associations>
+</Column>
+<Column name="Tarea_Id" id="9E839065-C6C3-C6DD-E165-5AA2597345EE">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="627816EB-BC20-3673-B8EF-F9831372BAA4" referredColumn="D9CE7494-5E3D-19D6-D793-60071BECAB3F"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="20E79373-7832-82B0-A8A4-9967FA022D90" name="TareaElementoTecnico_PK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A97DC4DC-1BAC-23BA-712F-7DB331DDE864"/>
+<colUsage columnID="9E839065-C6C3-C6DD-E165-5AA2597345EE"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="176B6079-C9B9-7F49-B448-29DC203D013D" name="TareaElementoTecnico_ElementoTecnico_FK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<generatorID>4ECD2367-C0BE-0E67-249A-E900303EA402</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A97DC4DC-1BAC-23BA-712F-7DB331DDE864"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="AA1B0C83-95AC-4A2D-9547-EB8394FAC320" name="TareaElementoTecnico_Tarea_FK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<generatorID>4ECD2367-C0BE-0E67-249A-E900303EA402</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="9E839065-C6C3-C6DD-E165-5AA2597345EE"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

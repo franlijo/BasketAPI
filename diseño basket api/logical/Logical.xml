@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="4707E3DE-FE6A-A598-9D47-6692FBC1E59C" mainViewID="CAAE6559-9135-40B5-F020-5056F18A72D7">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 08:59:02 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

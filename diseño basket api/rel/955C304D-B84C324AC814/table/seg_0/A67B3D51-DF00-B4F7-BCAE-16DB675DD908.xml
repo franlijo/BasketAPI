@@ -1,0 +1,75 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="A67B3D51-DF00-B4F7-BCAE-16DB675DD908" name="EntrenamientoTarea">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Tarea_Id" id="EB14ED8F-65CC-D39F-28E0-22AAF903FC84">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="EDB972E6-BFE8-CB38-ADD5-A9E5ABEC8602" referredColumn="D9CE7494-5E3D-19D6-D793-60071BECAB3F"/>
+</associations>
+</Column>
+<Column name="Entrenamiento_Id" id="0685CB0E-BCE9-DDBA-BC77-0DE51B3A03D0">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="91D43A9D-F13B-E214-1668-0BE028E8A088" referredColumn="D70737AD-B706-D76E-88B5-B77C0C72C215"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="CBD15AF4-8F4B-A964-ECF6-E4B2651E5F6F" name="EntrenamientoTarea_PK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="EB14ED8F-65CC-D39F-28E0-22AAF903FC84"/>
+<colUsage columnID="0685CB0E-BCE9-DDBA-BC77-0DE51B3A03D0"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="8F11A1A1-1242-3B60-55E1-4C29323D8294" name="EntrenamientoTarea_Tarea_FK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<generatorID>9C353ACC-0C56-E19E-B376-815224B53D07</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="EB14ED8F-65CC-D39F-28E0-22AAF903FC84"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="23ECB7CD-6BE8-02A1-07FC-D1F746538A4F" name="EntrenamientoTarea_Entrenamiento_FK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:50:59 UTC</createdTime>
+<generatorID>9C353ACC-0C56-E19E-B376-815224B53D07</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="0685CB0E-BCE9-DDBA-BC77-0DE51B3A03D0"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

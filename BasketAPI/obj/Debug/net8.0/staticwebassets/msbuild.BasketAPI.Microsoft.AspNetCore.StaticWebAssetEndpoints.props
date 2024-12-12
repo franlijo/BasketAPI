@@ -1,0 +1,904 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/02b6d22e-17a6-4f22-86da-469aabdf4c8b.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\02b6d22e-17a6-4f22-86da-469aabdf4c8b.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FdkwuFuIsfw5V9TEOF6WqXQUhRLKO5lZAOgurEPTFco="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"40486"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022FdkwuFuIsfw5V9TEOF6WqXQUhRLKO5lZAOgurEPTFco=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 10:05:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/02b6d22e-17a6-4f22-86da-469aabdf4c8b.pve72s2tnf.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\02b6d22e-17a6-4f22-86da-469aabdf4c8b.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pve72s2tnf"},{"Name":"integrity","Value":"sha256-FdkwuFuIsfw5V9TEOF6WqXQUhRLKO5lZAOgurEPTFco="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/02b6d22e-17a6-4f22-86da-469aabdf4c8b.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"40486"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022FdkwuFuIsfw5V9TEOF6WqXQUhRLKO5lZAOgurEPTFco=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 10:05:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/1522d0cb-47be-4811-b8fe-a607b97a6b4b.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\1522d0cb-47be-4811-b8fe-a607b97a6b4b.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"62208"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00221rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 07:50:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/1522d0cb-47be-4811-b8fe-a607b97a6b4b.uz2g6ojaey.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\1522d0cb-47be-4811-b8fe-a607b97a6b4b.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uz2g6ojaey"},{"Name":"integrity","Value":"sha256-1rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/1522d0cb-47be-4811-b8fe-a607b97a6b4b.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"62208"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00221rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 07:50:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/1d825b4d-169e-4bf3-87b8-2b01c5450a89.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\1d825b4d-169e-4bf3-87b8-2b01c5450a89.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7Nl5ScPbOj0T0kUMes/G7AE5UYo3dtyBYfGMNFHmeE0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"41434"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00227Nl5ScPbOj0T0kUMes/G7AE5UYo3dtyBYfGMNFHmeE0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 10:36:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/1d825b4d-169e-4bf3-87b8-2b01c5450a89.ki9rt9bjn5.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\1d825b4d-169e-4bf3-87b8-2b01c5450a89.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ki9rt9bjn5"},{"Name":"integrity","Value":"sha256-7Nl5ScPbOj0T0kUMes/G7AE5UYo3dtyBYfGMNFHmeE0="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/1d825b4d-169e-4bf3-87b8-2b01c5450a89.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41434"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00227Nl5ScPbOj0T0kUMes/G7AE5UYo3dtyBYfGMNFHmeE0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 10:36:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/243c813b-5d96-4526-aa33-ddf6f2b76f7a.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\243c813b-5d96-4526-aa33-ddf6f2b76f7a.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wfLoTc/eW9L8ZIYLMS8fGMf\u002BgObGQfCWJbXCboPn1d4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"73532"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wfLoTc/eW9L8ZIYLMS8fGMf\u002BgObGQfCWJbXCboPn1d4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Dec 2024 11:15:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/243c813b-5d96-4526-aa33-ddf6f2b76f7a.rxgynjyvto.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\243c813b-5d96-4526-aa33-ddf6f2b76f7a.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"rxgynjyvto"},{"Name":"integrity","Value":"sha256-wfLoTc/eW9L8ZIYLMS8fGMf\u002BgObGQfCWJbXCboPn1d4="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/243c813b-5d96-4526-aa33-ddf6f2b76f7a.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"73532"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022wfLoTc/eW9L8ZIYLMS8fGMf\u002BgObGQfCWJbXCboPn1d4=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Dec 2024 11:15:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/26b58b76-b19a-4bac-9eaf-a45ec8a1e85d.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\26b58b76-b19a-4bac-9eaf-a45ec8a1e85d.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FdkwuFuIsfw5V9TEOF6WqXQUhRLKO5lZAOgurEPTFco="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"40486"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022FdkwuFuIsfw5V9TEOF6WqXQUhRLKO5lZAOgurEPTFco=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Nov 2024 12:13:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/26b58b76-b19a-4bac-9eaf-a45ec8a1e85d.pve72s2tnf.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\26b58b76-b19a-4bac-9eaf-a45ec8a1e85d.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pve72s2tnf"},{"Name":"integrity","Value":"sha256-FdkwuFuIsfw5V9TEOF6WqXQUhRLKO5lZAOgurEPTFco="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/26b58b76-b19a-4bac-9eaf-a45ec8a1e85d.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"40486"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022FdkwuFuIsfw5V9TEOF6WqXQUhRLKO5lZAOgurEPTFco=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Nov 2024 12:13:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/44b8389e-9a35-43cf-949c-a0fa3f981ba8.424dnlqza7.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\44b8389e-9a35-43cf-949c-a0fa3f981ba8.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"424dnlqza7"},{"Name":"integrity","Value":"sha256-zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/44b8389e-9a35-43cf-949c-a0fa3f981ba8.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26875"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 09:30:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/44b8389e-9a35-43cf-949c-a0fa3f981ba8.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\44b8389e-9a35-43cf-949c-a0fa3f981ba8.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"26875"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 09:30:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/6e653b94-c67a-460c-b3a6-201f369e4d82.dpn2dkvzu2.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\6e653b94-c67a-460c-b3a6-201f369e4d82.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dpn2dkvzu2"},{"Name":"integrity","Value":"sha256-f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/6e653b94-c67a-460c-b3a6-201f369e4d82.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"80870"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 09:50:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/6e653b94-c67a-460c-b3a6-201f369e4d82.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\6e653b94-c67a-460c-b3a6-201f369e4d82.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"80870"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 09:50:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/81c1df75-e330-4ef2-876e-b445e9712b83.bipkshk4b2.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\81c1df75-e330-4ef2-876e-b445e9712b83.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bipkshk4b2"},{"Name":"integrity","Value":"sha256-I36aw7z\u002Bd7QLCMgA2V8o1GEYX4kM8VPN5QG1W06M1bc="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/81c1df75-e330-4ef2-876e-b445e9712b83.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37386"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022I36aw7z\u002Bd7QLCMgA2V8o1GEYX4kM8VPN5QG1W06M1bc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 12:27:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/81c1df75-e330-4ef2-876e-b445e9712b83.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\81c1df75-e330-4ef2-876e-b445e9712b83.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-I36aw7z\u002Bd7QLCMgA2V8o1GEYX4kM8VPN5QG1W06M1bc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"37386"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022I36aw7z\u002Bd7QLCMgA2V8o1GEYX4kM8VPN5QG1W06M1bc=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 12:27:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/83bd42a1-1750-4c4d-a861-309bf831e835.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\83bd42a1-1750-4c4d-a861-309bf831e835.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"19264"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00220NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 15 Nov 2024 13:18:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/83bd42a1-1750-4c4d-a861-309bf831e835.wkonru2s1e.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\83bd42a1-1750-4c4d-a861-309bf831e835.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wkonru2s1e"},{"Name":"integrity","Value":"sha256-0NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/83bd42a1-1750-4c4d-a861-309bf831e835.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19264"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00220NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 15 Nov 2024 13:18:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/8d0d4e5a-8f3c-482a-b3ae-87aeb73c04e1.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\8d0d4e5a-8f3c-482a-b3ae-87aeb73c04e1.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"46454"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Dec 2024 11:15:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/8d0d4e5a-8f3c-482a-b3ae-87aeb73c04e1.q1w2as5aoh.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\8d0d4e5a-8f3c-482a-b3ae-87aeb73c04e1.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q1w2as5aoh"},{"Name":"integrity","Value":"sha256-vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/8d0d4e5a-8f3c-482a-b3ae-87aeb73c04e1.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"46454"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Dec 2024 11:15:49 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/8e9380e7-7664-4e2a-840f-d67d968b4a94.1675kvejgg.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\8e9380e7-7664-4e2a-840f-d67d968b4a94.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1675kvejgg"},{"Name":"integrity","Value":"sha256-dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/8e9380e7-7664-4e2a-840f-d67d968b4a94.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"45713"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 09:32:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/8e9380e7-7664-4e2a-840f-d67d968b4a94.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\8e9380e7-7664-4e2a-840f-d67d968b4a94.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"45713"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 09:32:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/93b91022-7ad0-4ffe-8868-8a267bd0656b.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\93b91022-7ad0-4ffe-8868-8a267bd0656b.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fvsNDIgdPhntpoG8H9DJCsv7fiqrsqBvUu0H4G/hWsQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"58311"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022fvsNDIgdPhntpoG8H9DJCsv7fiqrsqBvUu0H4G/hWsQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 09:33:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/93b91022-7ad0-4ffe-8868-8a267bd0656b.ywaxn29wow.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\93b91022-7ad0-4ffe-8868-8a267bd0656b.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ywaxn29wow"},{"Name":"integrity","Value":"sha256-fvsNDIgdPhntpoG8H9DJCsv7fiqrsqBvUu0H4G/hWsQ="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/93b91022-7ad0-4ffe-8868-8a267bd0656b.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"58311"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022fvsNDIgdPhntpoG8H9DJCsv7fiqrsqBvUu0H4G/hWsQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 09:33:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/9ee927e7-581c-4704-bae5-600404c7f0f0.7a1b3hdkq1.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\9ee927e7-581c-4704-bae5-600404c7f0f0.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7a1b3hdkq1"},{"Name":"integrity","Value":"sha256-wY0XDWvjW0Dgu3ojXDzyhfAHisTXiAzNVzRVdQWs38Q="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/9ee927e7-581c-4704-bae5-600404c7f0f0.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19049"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022wY0XDWvjW0Dgu3ojXDzyhfAHisTXiAzNVzRVdQWs38Q=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Nov 2024 20:51:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/9ee927e7-581c-4704-bae5-600404c7f0f0.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\9ee927e7-581c-4704-bae5-600404c7f0f0.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wY0XDWvjW0Dgu3ojXDzyhfAHisTXiAzNVzRVdQWs38Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"19049"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022wY0XDWvjW0Dgu3ojXDzyhfAHisTXiAzNVzRVdQWs38Q=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Nov 2024 20:51:50 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/a1b69f07-8df0-4f34-b0cb-fcf994811127.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\a1b69f07-8df0-4f34-b0cb-fcf994811127.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7Nl5ScPbOj0T0kUMes/G7AE5UYo3dtyBYfGMNFHmeE0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"41434"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00227Nl5ScPbOj0T0kUMes/G7AE5UYo3dtyBYfGMNFHmeE0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 12:25:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/a1b69f07-8df0-4f34-b0cb-fcf994811127.ki9rt9bjn5.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\a1b69f07-8df0-4f34-b0cb-fcf994811127.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ki9rt9bjn5"},{"Name":"integrity","Value":"sha256-7Nl5ScPbOj0T0kUMes/G7AE5UYo3dtyBYfGMNFHmeE0="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/a1b69f07-8df0-4f34-b0cb-fcf994811127.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41434"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00227Nl5ScPbOj0T0kUMes/G7AE5UYo3dtyBYfGMNFHmeE0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 12:25:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/a8b0be1f-0703-4603-b8d9-5ae970d6b5f7.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\a8b0be1f-0703-4603-b8d9-5ae970d6b5f7.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"62208"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00221rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 10:35:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/a8b0be1f-0703-4603-b8d9-5ae970d6b5f7.uz2g6ojaey.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\a8b0be1f-0703-4603-b8d9-5ae970d6b5f7.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uz2g6ojaey"},{"Name":"integrity","Value":"sha256-1rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/a8b0be1f-0703-4603-b8d9-5ae970d6b5f7.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"62208"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00221rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 10:35:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/b82aa5b4-055c-446e-8ffe-ddd1890fdad8.424dnlqza7.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\b82aa5b4-055c-446e-8ffe-ddd1890fdad8.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"424dnlqza7"},{"Name":"integrity","Value":"sha256-zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/b82aa5b4-055c-446e-8ffe-ddd1890fdad8.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26875"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90=\u0022"},{"Name":"Last-Modified","Value":"Fri, 29 Nov 2024 13:05:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/b82aa5b4-055c-446e-8ffe-ddd1890fdad8.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\b82aa5b4-055c-446e-8ffe-ddd1890fdad8.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"26875"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90=\u0022"},{"Name":"Last-Modified","Value":"Fri, 29 Nov 2024 13:05:12 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/bb6aa73c-afde-49b3-af47-bf9e4ebd04df.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\bb6aa73c-afde-49b3-af47-bf9e4ebd04df.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"19264"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00220NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 10:37:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/bb6aa73c-afde-49b3-af47-bf9e4ebd04df.wkonru2s1e.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\bb6aa73c-afde-49b3-af47-bf9e4ebd04df.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wkonru2s1e"},{"Name":"integrity","Value":"sha256-0NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/bb6aa73c-afde-49b3-af47-bf9e4ebd04df.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19264"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00220NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 10:37:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/bf697ad9-e73e-4013-8aa9-792e8650de9e.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\bf697ad9-e73e-4013-8aa9-792e8650de9e.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"19264"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00220NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 16:19:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/bf697ad9-e73e-4013-8aa9-792e8650de9e.wkonru2s1e.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\bf697ad9-e73e-4013-8aa9-792e8650de9e.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wkonru2s1e"},{"Name":"integrity","Value":"sha256-0NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/bf697ad9-e73e-4013-8aa9-792e8650de9e.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19264"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00220NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 16:19:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/d90f298a-3ff1-4c96-9438-27c348324215.5gv9lu5ikg.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\d90f298a-3ff1-4c96-9438-27c348324215.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5gv9lu5ikg"},{"Name":"integrity","Value":"sha256-i7uf1vbxFfHk1jSFL9L5tO8JbeNCCHPrQqE0p3LYAFs="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/d90f298a-3ff1-4c96-9438-27c348324215.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35497"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022i7uf1vbxFfHk1jSFL9L5tO8JbeNCCHPrQqE0p3LYAFs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 16:18:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/d90f298a-3ff1-4c96-9438-27c348324215.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\d90f298a-3ff1-4c96-9438-27c348324215.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-i7uf1vbxFfHk1jSFL9L5tO8JbeNCCHPrQqE0p3LYAFs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"35497"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022i7uf1vbxFfHk1jSFL9L5tO8JbeNCCHPrQqE0p3LYAFs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 16:18:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/dd4f43b1-9c21-4066-8bf7-9b5e33b25c6d.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\dd4f43b1-9c21-4066-8bf7-9b5e33b25c6d.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"46454"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 29 Nov 2024 13:05:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/dd4f43b1-9c21-4066-8bf7-9b5e33b25c6d.q1w2as5aoh.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\dd4f43b1-9c21-4066-8bf7-9b5e33b25c6d.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q1w2as5aoh"},{"Name":"integrity","Value":"sha256-vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/dd4f43b1-9c21-4066-8bf7-9b5e33b25c6d.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"46454"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 29 Nov 2024 13:05:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/e857515b-cb01-46df-96cd-cb2a7e42de5e.6ezrpp43wn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\e857515b-cb01-46df-96cd-cb2a7e42de5e.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6ezrpp43wn"},{"Name":"integrity","Value":"sha256-7qiBHDaKKTNBpD7p8OPTzix4A9w85nq0joYk0X\u002B0Z4M="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/e857515b-cb01-46df-96cd-cb2a7e42de5e.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"11295"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227qiBHDaKKTNBpD7p8OPTzix4A9w85nq0joYk0X\u002B0Z4M=\u0022"},{"Name":"Last-Modified","Value":"Fri, 15 Nov 2024 20:08:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/e857515b-cb01-46df-96cd-cb2a7e42de5e.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\e857515b-cb01-46df-96cd-cb2a7e42de5e.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7qiBHDaKKTNBpD7p8OPTzix4A9w85nq0joYk0X\u002B0Z4M="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"11295"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u00227qiBHDaKKTNBpD7p8OPTzix4A9w85nq0joYk0X\u002B0Z4M=\u0022"},{"Name":"Last-Modified","Value":"Fri, 15 Nov 2024 20:08:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/f54ca842-5c3c-437f-99cc-1ee3ed18ab62.1675kvejgg.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\f54ca842-5c3c-437f-99cc-1ee3ed18ab62.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1675kvejgg"},{"Name":"integrity","Value":"sha256-dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE="},{"Name":"label","Value":"_content/BasketAPI/entrenadores/f54ca842-5c3c-437f-99cc-1ee3ed18ab62.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"45713"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 07:50:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/entrenadores/f54ca842-5c3c-437f-99cc-1ee3ed18ab62.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\entrenadores\f54ca842-5c3c-437f-99cc-1ee3ed18ab62.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"45713"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 07:50:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/009f5ca8-f1ac-4664-bce9-cfd0098a925e.18qqbdjuza.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\009f5ca8-f1ac-4664-bce9-cfd0098a925e.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"18qqbdjuza"},{"Name":"integrity","Value":"sha256-QfabZ5Z9cHFjfV9BVd5fRCEXi\u002BBQIXCbF7pg7ij1Ivs="},{"Name":"label","Value":"_content/BasketAPI/equipos/009f5ca8-f1ac-4664-bce9-cfd0098a925e.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3387517"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QfabZ5Z9cHFjfV9BVd5fRCEXi\u002BBQIXCbF7pg7ij1Ivs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 13:33:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/009f5ca8-f1ac-4664-bce9-cfd0098a925e.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\009f5ca8-f1ac-4664-bce9-cfd0098a925e.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QfabZ5Z9cHFjfV9BVd5fRCEXi\u002BBQIXCbF7pg7ij1Ivs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3387517"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QfabZ5Z9cHFjfV9BVd5fRCEXi\u002BBQIXCbF7pg7ij1Ivs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 13:33:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/01253f0e-2340-40bc-a22c-4c43309720a8.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\01253f0e-2340-40bc-a22c-4c43309720a8.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HHS1NYEB3gaEz8I7fJjhsMYB/a6\u002BI0kacTz7SowE2do="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3844637"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HHS1NYEB3gaEz8I7fJjhsMYB/a6\u002BI0kacTz7SowE2do=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 12:59:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/01253f0e-2340-40bc-a22c-4c43309720a8.obg52yie7z.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\01253f0e-2340-40bc-a22c-4c43309720a8.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"obg52yie7z"},{"Name":"integrity","Value":"sha256-HHS1NYEB3gaEz8I7fJjhsMYB/a6\u002BI0kacTz7SowE2do="},{"Name":"label","Value":"_content/BasketAPI/equipos/01253f0e-2340-40bc-a22c-4c43309720a8.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3844637"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HHS1NYEB3gaEz8I7fJjhsMYB/a6\u002BI0kacTz7SowE2do=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 12:59:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/20339e13-201e-4f36-b3c5-5d8353c57fe0.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\20339e13-201e-4f36-b3c5-5d8353c57fe0.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HHS1NYEB3gaEz8I7fJjhsMYB/a6\u002BI0kacTz7SowE2do="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3844637"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HHS1NYEB3gaEz8I7fJjhsMYB/a6\u002BI0kacTz7SowE2do=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:41:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/20339e13-201e-4f36-b3c5-5d8353c57fe0.obg52yie7z.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\20339e13-201e-4f36-b3c5-5d8353c57fe0.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"obg52yie7z"},{"Name":"integrity","Value":"sha256-HHS1NYEB3gaEz8I7fJjhsMYB/a6\u002BI0kacTz7SowE2do="},{"Name":"label","Value":"_content/BasketAPI/equipos/20339e13-201e-4f36-b3c5-5d8353c57fe0.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3844637"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022HHS1NYEB3gaEz8I7fJjhsMYB/a6\u002BI0kacTz7SowE2do=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:41:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/3636a5cd-8edf-4eb4-bc23-148cded9fda8.8kwfd7aat3.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\3636a5cd-8edf-4eb4-bc23-148cded9fda8.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8kwfd7aat3"},{"Name":"integrity","Value":"sha256-mBuh0tKs78kQqebKW5Ti8gA2ZOtaJ8avpEM44vy19Cw="},{"Name":"label","Value":"_content/BasketAPI/equipos/3636a5cd-8edf-4eb4-bc23-148cded9fda8.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4354432"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mBuh0tKs78kQqebKW5Ti8gA2ZOtaJ8avpEM44vy19Cw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:41:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/3636a5cd-8edf-4eb4-bc23-148cded9fda8.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\3636a5cd-8edf-4eb4-bc23-148cded9fda8.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mBuh0tKs78kQqebKW5Ti8gA2ZOtaJ8avpEM44vy19Cw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4354432"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mBuh0tKs78kQqebKW5Ti8gA2ZOtaJ8avpEM44vy19Cw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:41:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/40608e54-0667-45f6-b6d9-919bc1f86dcd.5l999zxl47.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\40608e54-0667-45f6-b6d9-919bc1f86dcd.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5l999zxl47"},{"Name":"integrity","Value":"sha256-NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI="},{"Name":"label","Value":"_content/BasketAPI/equipos/40608e54-0667-45f6-b6d9-919bc1f86dcd.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"94122"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 16:16:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/40608e54-0667-45f6-b6d9-919bc1f86dcd.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\40608e54-0667-45f6-b6d9-919bc1f86dcd.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"94122"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 16:16:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/51250c6b-52db-41e5-bdb3-42688927dfaf.8kwfd7aat3.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\51250c6b-52db-41e5-bdb3-42688927dfaf.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8kwfd7aat3"},{"Name":"integrity","Value":"sha256-mBuh0tKs78kQqebKW5Ti8gA2ZOtaJ8avpEM44vy19Cw="},{"Name":"label","Value":"_content/BasketAPI/equipos/51250c6b-52db-41e5-bdb3-42688927dfaf.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4354432"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mBuh0tKs78kQqebKW5Ti8gA2ZOtaJ8avpEM44vy19Cw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:41:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/51250c6b-52db-41e5-bdb3-42688927dfaf.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\51250c6b-52db-41e5-bdb3-42688927dfaf.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mBuh0tKs78kQqebKW5Ti8gA2ZOtaJ8avpEM44vy19Cw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4354432"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mBuh0tKs78kQqebKW5Ti8gA2ZOtaJ8avpEM44vy19Cw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:41:07 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/5991693d-0390-4e1a-b5d0-8b93b6b7f04f.8kwfd7aat3.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\5991693d-0390-4e1a-b5d0-8b93b6b7f04f.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8kwfd7aat3"},{"Name":"integrity","Value":"sha256-mBuh0tKs78kQqebKW5Ti8gA2ZOtaJ8avpEM44vy19Cw="},{"Name":"label","Value":"_content/BasketAPI/equipos/5991693d-0390-4e1a-b5d0-8b93b6b7f04f.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4354432"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mBuh0tKs78kQqebKW5Ti8gA2ZOtaJ8avpEM44vy19Cw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 07:54:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/5991693d-0390-4e1a-b5d0-8b93b6b7f04f.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\5991693d-0390-4e1a-b5d0-8b93b6b7f04f.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-mBuh0tKs78kQqebKW5Ti8gA2ZOtaJ8avpEM44vy19Cw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4354432"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022mBuh0tKs78kQqebKW5Ti8gA2ZOtaJ8avpEM44vy19Cw=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 07:54:25 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/63dba531-1dde-4cb4-9352-a3d970e3e0aa.5l999zxl47.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\63dba531-1dde-4cb4-9352-a3d970e3e0aa.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5l999zxl47"},{"Name":"integrity","Value":"sha256-NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI="},{"Name":"label","Value":"_content/BasketAPI/equipos/63dba531-1dde-4cb4-9352-a3d970e3e0aa.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"94122"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 14:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/63dba531-1dde-4cb4-9352-a3d970e3e0aa.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\63dba531-1dde-4cb4-9352-a3d970e3e0aa.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"94122"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 14:17:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/6959a753-0b2e-42bb-902c-a880a6c990c1.5l999zxl47.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\6959a753-0b2e-42bb-902c-a880a6c990c1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5l999zxl47"},{"Name":"integrity","Value":"sha256-NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI="},{"Name":"label","Value":"_content/BasketAPI/equipos/6959a753-0b2e-42bb-902c-a880a6c990c1.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"94122"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Nov 2024 20:47:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/6959a753-0b2e-42bb-902c-a880a6c990c1.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\6959a753-0b2e-42bb-902c-a880a6c990c1.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"94122"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Nov 2024 20:47:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/6970b838-19a1-468b-9da9-4d54ee54dbf0.4qrmtqpbf1.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\6970b838-19a1-468b-9da9-4d54ee54dbf0.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4qrmtqpbf1"},{"Name":"integrity","Value":"sha256-JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0="},{"Name":"label","Value":"_content/BasketAPI/equipos/6970b838-19a1-468b-9da9-4d54ee54dbf0.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4076148"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 10:57:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/6970b838-19a1-468b-9da9-4d54ee54dbf0.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\6970b838-19a1-468b-9da9-4d54ee54dbf0.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4076148"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 10:57:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/875a259d-4211-4971-bcd2-a47d32768e08.4qrmtqpbf1.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\875a259d-4211-4971-bcd2-a47d32768e08.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4qrmtqpbf1"},{"Name":"integrity","Value":"sha256-JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0="},{"Name":"label","Value":"_content/BasketAPI/equipos/875a259d-4211-4971-bcd2-a47d32768e08.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4076148"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 11:50:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/875a259d-4211-4971-bcd2-a47d32768e08.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\875a259d-4211-4971-bcd2-a47d32768e08.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4076148"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 11:50:17 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/9d25cd15-de97-4acf-a594-0fd11443f897.2ve876erak.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\9d25cd15-de97-4acf-a594-0fd11443f897.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2ve876erak"},{"Name":"integrity","Value":"sha256-Ptx2sWx0/GVRdGqVCq/\u002BGSSFNHtEUlWjvT0kLuDvxzU="},{"Name":"label","Value":"_content/BasketAPI/equipos/9d25cd15-de97-4acf-a594-0fd11443f897.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3835463"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Ptx2sWx0/GVRdGqVCq/\u002BGSSFNHtEUlWjvT0kLuDvxzU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 12:42:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/9d25cd15-de97-4acf-a594-0fd11443f897.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\9d25cd15-de97-4acf-a594-0fd11443f897.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Ptx2sWx0/GVRdGqVCq/\u002BGSSFNHtEUlWjvT0kLuDvxzU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3835463"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022Ptx2sWx0/GVRdGqVCq/\u002BGSSFNHtEUlWjvT0kLuDvxzU=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 12:42:56 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/9e0d7701-4e2b-4578-9872-9f5b755e99ba.18qqbdjuza.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\9e0d7701-4e2b-4578-9872-9f5b755e99ba.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"18qqbdjuza"},{"Name":"integrity","Value":"sha256-QfabZ5Z9cHFjfV9BVd5fRCEXi\u002BBQIXCbF7pg7ij1Ivs="},{"Name":"label","Value":"_content/BasketAPI/equipos/9e0d7701-4e2b-4578-9872-9f5b755e99ba.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"3387517"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QfabZ5Z9cHFjfV9BVd5fRCEXi\u002BBQIXCbF7pg7ij1Ivs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:41:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/9e0d7701-4e2b-4578-9872-9f5b755e99ba.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\9e0d7701-4e2b-4578-9872-9f5b755e99ba.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-QfabZ5Z9cHFjfV9BVd5fRCEXi\u002BBQIXCbF7pg7ij1Ivs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"3387517"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022QfabZ5Z9cHFjfV9BVd5fRCEXi\u002BBQIXCbF7pg7ij1Ivs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:41:30 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/b47fb0c7-8870-4e17-b58b-5df70338a6c7.4qrmtqpbf1.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\b47fb0c7-8870-4e17-b58b-5df70338a6c7.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4qrmtqpbf1"},{"Name":"integrity","Value":"sha256-JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0="},{"Name":"label","Value":"_content/BasketAPI/equipos/b47fb0c7-8870-4e17-b58b-5df70338a6c7.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4076148"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 07:54:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/b47fb0c7-8870-4e17-b58b-5df70338a6c7.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\b47fb0c7-8870-4e17-b58b-5df70338a6c7.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4076148"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 07:54:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/bb1a7e34-2efd-4bf5-b812-c01df96cc576.4qrmtqpbf1.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\bb1a7e34-2efd-4bf5-b812-c01df96cc576.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4qrmtqpbf1"},{"Name":"integrity","Value":"sha256-JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0="},{"Name":"label","Value":"_content/BasketAPI/equipos/bb1a7e34-2efd-4bf5-b812-c01df96cc576.JPG"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4076148"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 12:33:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/bb1a7e34-2efd-4bf5-b812-c01df96cc576.JPG">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\bb1a7e34-2efd-4bf5-b812-c01df96cc576.JPG'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4076148"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022JJULTvBvrYb6xLfFIZX2BErwrPG76K/7unzY8t5nLc0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 12:33:36 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/d36e4e00-797f-4aed-8f77-26ccff8d82f3.lwdlh9h90n.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\d36e4e00-797f-4aed-8f77-26ccff8d82f3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"lwdlh9h90n"},{"Name":"integrity","Value":"sha256-pf4ujBOAoM58aiKLJFiibFtZ8O3HBSVA08CbvWbyfjk="},{"Name":"label","Value":"_content/BasketAPI/equipos/d36e4e00-797f-4aed-8f77-26ccff8d82f3.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2515100"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022pf4ujBOAoM58aiKLJFiibFtZ8O3HBSVA08CbvWbyfjk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 10:36:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/d36e4e00-797f-4aed-8f77-26ccff8d82f3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\d36e4e00-797f-4aed-8f77-26ccff8d82f3.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pf4ujBOAoM58aiKLJFiibFtZ8O3HBSVA08CbvWbyfjk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2515100"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022pf4ujBOAoM58aiKLJFiibFtZ8O3HBSVA08CbvWbyfjk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 10:36:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/e2d6b83d-528f-4af1-b79b-723657aed09a.5l999zxl47.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\e2d6b83d-528f-4af1-b79b-723657aed09a.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5l999zxl47"},{"Name":"integrity","Value":"sha256-NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI="},{"Name":"label","Value":"_content/BasketAPI/equipos/e2d6b83d-528f-4af1-b79b-723657aed09a.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"94122"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 08:11:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/equipos/e2d6b83d-528f-4af1-b79b-723657aed09a.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\equipos\e2d6b83d-528f-4af1-b79b-723657aed09a.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"94122"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022NwLiAKhcHAP38Tbn6p\u002BTMGlDTbXLJkNw/G4a4b472mI=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 08:11:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/053cda57-cb0c-4e8b-83a9-6134d953a3ef.1ilosqmql9.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\053cda57-cb0c-4e8b-83a9-6134d953a3ef.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1ilosqmql9"},{"Name":"integrity","Value":"sha256-2aYqDTrQGg07zj2bwUSBO6E1j7klUrGFV3U/bLTBao0="},{"Name":"label","Value":"_content/BasketAPI/jugadores/053cda57-cb0c-4e8b-83a9-6134d953a3ef.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"154176"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00222aYqDTrQGg07zj2bwUSBO6E1j7klUrGFV3U/bLTBao0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 09:07:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/053cda57-cb0c-4e8b-83a9-6134d953a3ef.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\053cda57-cb0c-4e8b-83a9-6134d953a3ef.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-2aYqDTrQGg07zj2bwUSBO6E1j7klUrGFV3U/bLTBao0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"154176"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00222aYqDTrQGg07zj2bwUSBO6E1j7klUrGFV3U/bLTBao0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 09:07:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/08da890c-24d1-4c3e-ac13-fa14bceb7638.dpn2dkvzu2.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\08da890c-24d1-4c3e-ac13-fa14bceb7638.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dpn2dkvzu2"},{"Name":"integrity","Value":"sha256-f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk="},{"Name":"label","Value":"_content/BasketAPI/jugadores/08da890c-24d1-4c3e-ac13-fa14bceb7638.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"80870"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Nov 2024 20:47:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/08da890c-24d1-4c3e-ac13-fa14bceb7638.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\08da890c-24d1-4c3e-ac13-fa14bceb7638.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"80870"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Nov 2024 20:47:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/0e085187-f15d-43c0-88f9-2339aded27c5.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\0e085187-f15d-43c0-88f9-2339aded27c5.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-fvsNDIgdPhntpoG8H9DJCsv7fiqrsqBvUu0H4G/hWsQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"58311"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022fvsNDIgdPhntpoG8H9DJCsv7fiqrsqBvUu0H4G/hWsQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 09:14:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/0e085187-f15d-43c0-88f9-2339aded27c5.ywaxn29wow.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\0e085187-f15d-43c0-88f9-2339aded27c5.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ywaxn29wow"},{"Name":"integrity","Value":"sha256-fvsNDIgdPhntpoG8H9DJCsv7fiqrsqBvUu0H4G/hWsQ="},{"Name":"label","Value":"_content/BasketAPI/jugadores/0e085187-f15d-43c0-88f9-2339aded27c5.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"58311"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022fvsNDIgdPhntpoG8H9DJCsv7fiqrsqBvUu0H4G/hWsQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 09:14:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/0f47549c-5c4f-4b1d-96c4-1cda77803fd9.1jtv4sw889.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\0f47549c-5c4f-4b1d-96c4-1cda77803fd9.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1jtv4sw889"},{"Name":"integrity","Value":"sha256-w\u002BQ4exwIGl/qzzZehVZ037XPRcit5c53jL22upK1YBs="},{"Name":"label","Value":"_content/BasketAPI/jugadores/0f47549c-5c4f-4b1d-96c4-1cda77803fd9.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"30124"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022w\u002BQ4exwIGl/qzzZehVZ037XPRcit5c53jL22upK1YBs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:42:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/0f47549c-5c4f-4b1d-96c4-1cda77803fd9.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\0f47549c-5c4f-4b1d-96c4-1cda77803fd9.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-w\u002BQ4exwIGl/qzzZehVZ037XPRcit5c53jL22upK1YBs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"30124"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022w\u002BQ4exwIGl/qzzZehVZ037XPRcit5c53jL22upK1YBs=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:42:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/12d44ae2-2cc6-4d33-a67d-bd919c785949.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\12d44ae2-2cc6-4d33-a67d-bd919c785949.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"20078"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 07:58:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/12d44ae2-2cc6-4d33-a67d-bd919c785949.mnq97130t7.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\12d44ae2-2cc6-4d33-a67d-bd919c785949.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mnq97130t7"},{"Name":"integrity","Value":"sha256-ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o="},{"Name":"label","Value":"_content/BasketAPI/jugadores/12d44ae2-2cc6-4d33-a67d-bd919c785949.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20078"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 07:58:01 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/291cab89-d1f2-419e-898f-998d3eea9f5d.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\291cab89-d1f2-419e-898f-998d3eea9f5d.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"20078"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 12:25:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/291cab89-d1f2-419e-898f-998d3eea9f5d.mnq97130t7.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\291cab89-d1f2-419e-898f-998d3eea9f5d.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mnq97130t7"},{"Name":"integrity","Value":"sha256-ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o="},{"Name":"label","Value":"_content/BasketAPI/jugadores/291cab89-d1f2-419e-898f-998d3eea9f5d.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20078"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 12:25:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/33cff103-a762-4dc2-968c-4a64068d49ed.1675kvejgg.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\33cff103-a762-4dc2-968c-4a64068d49ed.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1675kvejgg"},{"Name":"integrity","Value":"sha256-dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE="},{"Name":"label","Value":"_content/BasketAPI/jugadores/33cff103-a762-4dc2-968c-4a64068d49ed.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"45713"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 07:57:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/33cff103-a762-4dc2-968c-4a64068d49ed.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\33cff103-a762-4dc2-968c-4a64068d49ed.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"45713"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 07:57:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/367d6b0e-4c32-4df9-b7f4-46049f5a90f7.dpn2dkvzu2.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\367d6b0e-4c32-4df9-b7f4-46049f5a90f7.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dpn2dkvzu2"},{"Name":"integrity","Value":"sha256-f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk="},{"Name":"label","Value":"_content/BasketAPI/jugadores/367d6b0e-4c32-4df9-b7f4-46049f5a90f7.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"80870"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Dec 2024 11:18:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/367d6b0e-4c32-4df9-b7f4-46049f5a90f7.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\367d6b0e-4c32-4df9-b7f4-46049f5a90f7.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"80870"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Dec 2024 11:18:58 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/3b133a6f-5460-4dbf-a4e0-53d381809045.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\3b133a6f-5460-4dbf-a4e0-53d381809045.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Tq4bVgAeKHRf23iR/jjk76cx4H\u002Bx18k7PfZZ3UNSwDI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"302610"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022Tq4bVgAeKHRf23iR/jjk76cx4H\u002Bx18k7PfZZ3UNSwDI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Dec 2024 11:16:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/3b133a6f-5460-4dbf-a4e0-53d381809045.yjwe6fbkta.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\3b133a6f-5460-4dbf-a4e0-53d381809045.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yjwe6fbkta"},{"Name":"integrity","Value":"sha256-Tq4bVgAeKHRf23iR/jjk76cx4H\u002Bx18k7PfZZ3UNSwDI="},{"Name":"label","Value":"_content/BasketAPI/jugadores/3b133a6f-5460-4dbf-a4e0-53d381809045.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"302610"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022Tq4bVgAeKHRf23iR/jjk76cx4H\u002Bx18k7PfZZ3UNSwDI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Dec 2024 11:16:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/404a1b60-a4cc-42ea-8fde-188156f591d3.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\404a1b60-a4cc-42ea-8fde-188156f591d3.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"62208"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00221rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 21:13:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/404a1b60-a4cc-42ea-8fde-188156f591d3.uz2g6ojaey.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\404a1b60-a4cc-42ea-8fde-188156f591d3.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uz2g6ojaey"},{"Name":"integrity","Value":"sha256-1rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ="},{"Name":"label","Value":"_content/BasketAPI/jugadores/404a1b60-a4cc-42ea-8fde-188156f591d3.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"62208"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00221rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ=\u0022"},{"Name":"Last-Modified","Value":"Sun, 24 Nov 2024 21:13:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/44df72bf-6760-4e1d-9f3f-0b6631f772f1.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\44df72bf-6760-4e1d-9f3f-0b6631f772f1.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"20078"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Nov 2024 20:52:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/44df72bf-6760-4e1d-9f3f-0b6631f772f1.mnq97130t7.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\44df72bf-6760-4e1d-9f3f-0b6631f772f1.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mnq97130t7"},{"Name":"integrity","Value":"sha256-ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o="},{"Name":"label","Value":"_content/BasketAPI/jugadores/44df72bf-6760-4e1d-9f3f-0b6631f772f1.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20078"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o=\u0022"},{"Name":"Last-Modified","Value":"Tue, 26 Nov 2024 20:52:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/47716ae5-06c6-4848-b05e-03b3ec10d83f.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\47716ae5-06c6-4848-b05e-03b3ec10d83f.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-0NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"19264"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00220NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 15 Nov 2024 10:34:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/47716ae5-06c6-4848-b05e-03b3ec10d83f.wkonru2s1e.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\47716ae5-06c6-4848-b05e-03b3ec10d83f.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wkonru2s1e"},{"Name":"integrity","Value":"sha256-0NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw="},{"Name":"label","Value":"_content/BasketAPI/jugadores/47716ae5-06c6-4848-b05e-03b3ec10d83f.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19264"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00220NDVEh7848WYnkLcUVvmCd9IAq53iggeAeYnMcAmfdw=\u0022"},{"Name":"Last-Modified","Value":"Fri, 15 Nov 2024 10:34:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/4aa9e408-2579-4529-a339-370ca7d21efe.1675kvejgg.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\4aa9e408-2579-4529-a339-370ca7d21efe.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1675kvejgg"},{"Name":"integrity","Value":"sha256-dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE="},{"Name":"label","Value":"_content/BasketAPI/jugadores/4aa9e408-2579-4529-a339-370ca7d21efe.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"45713"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:42:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/4aa9e408-2579-4529-a339-370ca7d21efe.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\4aa9e408-2579-4529-a339-370ca7d21efe.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"45713"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022dzzwO9sbKyegh17cbpHtzLH5VCcGB35qGpHfEdtEfyE=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:42:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/4ef41a72-84d4-4364-ad15-1876c73d2700.bipkshk4b2.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\4ef41a72-84d4-4364-ad15-1876c73d2700.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bipkshk4b2"},{"Name":"integrity","Value":"sha256-I36aw7z\u002Bd7QLCMgA2V8o1GEYX4kM8VPN5QG1W06M1bc="},{"Name":"label","Value":"_content/BasketAPI/jugadores/4ef41a72-84d4-4364-ad15-1876c73d2700.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"37386"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022I36aw7z\u002Bd7QLCMgA2V8o1GEYX4kM8VPN5QG1W06M1bc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 08:12:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/4ef41a72-84d4-4364-ad15-1876c73d2700.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\4ef41a72-84d4-4364-ad15-1876c73d2700.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-I36aw7z\u002Bd7QLCMgA2V8o1GEYX4kM8VPN5QG1W06M1bc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"37386"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022I36aw7z\u002Bd7QLCMgA2V8o1GEYX4kM8VPN5QG1W06M1bc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 08:12:15 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/5ae24ccb-791d-4747-8695-0b38482800c3.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\5ae24ccb-791d-4747-8695-0b38482800c3.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FnPTnaBCPzkOKz7gmtdfOCaqqlkLq1bLYbdNoIzybnw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"53594"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022FnPTnaBCPzkOKz7gmtdfOCaqqlkLq1bLYbdNoIzybnw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 07:46:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/5ae24ccb-791d-4747-8695-0b38482800c3.yl43xmqfop.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\5ae24ccb-791d-4747-8695-0b38482800c3.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"yl43xmqfop"},{"Name":"integrity","Value":"sha256-FnPTnaBCPzkOKz7gmtdfOCaqqlkLq1bLYbdNoIzybnw="},{"Name":"label","Value":"_content/BasketAPI/jugadores/5ae24ccb-791d-4747-8695-0b38482800c3.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"53594"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022FnPTnaBCPzkOKz7gmtdfOCaqqlkLq1bLYbdNoIzybnw=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 07:46:29 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/5b63d012-5aa4-49b2-92d3-484a19ae47e3.424dnlqza7.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\5b63d012-5aa4-49b2-92d3-484a19ae47e3.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"424dnlqza7"},{"Name":"integrity","Value":"sha256-zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90="},{"Name":"label","Value":"_content/BasketAPI/jugadores/5b63d012-5aa4-49b2-92d3-484a19ae47e3.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26875"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:43:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/5b63d012-5aa4-49b2-92d3-484a19ae47e3.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\5b63d012-5aa4-49b2-92d3-484a19ae47e3.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"26875"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:43:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/6293fa94-d5f1-481c-a30d-24be4e14566e.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\6293fa94-d5f1-481c-a30d-24be4e14566e.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"46454"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 09:06:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/6293fa94-d5f1-481c-a30d-24be4e14566e.q1w2as5aoh.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\6293fa94-d5f1-481c-a30d-24be4e14566e.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q1w2as5aoh"},{"Name":"integrity","Value":"sha256-vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ="},{"Name":"label","Value":"_content/BasketAPI/jugadores/6293fa94-d5f1-481c-a30d-24be4e14566e.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"46454"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 09:06:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/64560ae2-a590-4bde-aaad-91b6f91af43d.424dnlqza7.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\64560ae2-a590-4bde-aaad-91b6f91af43d.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"424dnlqza7"},{"Name":"integrity","Value":"sha256-zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90="},{"Name":"label","Value":"_content/BasketAPI/jugadores/64560ae2-a590-4bde-aaad-91b6f91af43d.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26875"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 15:29:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/64560ae2-a590-4bde-aaad-91b6f91af43d.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\64560ae2-a590-4bde-aaad-91b6f91af43d.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"26875"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022zKBWCkO8uaNgtm175omWdR0zieoKPeXMYLlxZsOso90=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 15:29:06 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/64636af1-a95f-4d89-a534-98a1b3918d18.5gv9lu5ikg.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\64636af1-a95f-4d89-a534-98a1b3918d18.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5gv9lu5ikg"},{"Name":"integrity","Value":"sha256-i7uf1vbxFfHk1jSFL9L5tO8JbeNCCHPrQqE0p3LYAFs="},{"Name":"label","Value":"_content/BasketAPI/jugadores/64636af1-a95f-4d89-a534-98a1b3918d18.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35497"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022i7uf1vbxFfHk1jSFL9L5tO8JbeNCCHPrQqE0p3LYAFs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 07:57:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/64636af1-a95f-4d89-a534-98a1b3918d18.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\64636af1-a95f-4d89-a534-98a1b3918d18.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-i7uf1vbxFfHk1jSFL9L5tO8JbeNCCHPrQqE0p3LYAFs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"35497"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022i7uf1vbxFfHk1jSFL9L5tO8JbeNCCHPrQqE0p3LYAFs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 07:57:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/659b4b20-70a1-4877-ad6f-8edd6d157ec6.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\659b4b20-70a1-4877-ad6f-8edd6d157ec6.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BLWMQMj2vC8UOMJnMUvdbUDkkRuUM324UqiyfDZKG5g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"26800"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022\u002BLWMQMj2vC8UOMJnMUvdbUDkkRuUM324UqiyfDZKG5g=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 07:57:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/659b4b20-70a1-4877-ad6f-8edd6d157ec6.wqvlepls5n.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\659b4b20-70a1-4877-ad6f-8edd6d157ec6.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wqvlepls5n"},{"Name":"integrity","Value":"sha256-\u002BLWMQMj2vC8UOMJnMUvdbUDkkRuUM324UqiyfDZKG5g="},{"Name":"label","Value":"_content/BasketAPI/jugadores/659b4b20-70a1-4877-ad6f-8edd6d157ec6.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26800"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022\u002BLWMQMj2vC8UOMJnMUvdbUDkkRuUM324UqiyfDZKG5g=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 07:57:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/667a5df9-6482-40bd-952a-d0fe0c05912e.7a1b3hdkq1.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\667a5df9-6482-40bd-952a-d0fe0c05912e.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7a1b3hdkq1"},{"Name":"integrity","Value":"sha256-wY0XDWvjW0Dgu3ojXDzyhfAHisTXiAzNVzRVdQWs38Q="},{"Name":"label","Value":"_content/BasketAPI/jugadores/667a5df9-6482-40bd-952a-d0fe0c05912e.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19049"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022wY0XDWvjW0Dgu3ojXDzyhfAHisTXiAzNVzRVdQWs38Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 07:47:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/667a5df9-6482-40bd-952a-d0fe0c05912e.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\667a5df9-6482-40bd-952a-d0fe0c05912e.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wY0XDWvjW0Dgu3ojXDzyhfAHisTXiAzNVzRVdQWs38Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"19049"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022wY0XDWvjW0Dgu3ojXDzyhfAHisTXiAzNVzRVdQWs38Q=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 07:47:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/72480374-e573-499d-8e50-d6adfe44990e.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\72480374-e573-499d-8e50-d6adfe44990e.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"20078"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 08:11:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/72480374-e573-499d-8e50-d6adfe44990e.mnq97130t7.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\72480374-e573-499d-8e50-d6adfe44990e.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mnq97130t7"},{"Name":"integrity","Value":"sha256-ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o="},{"Name":"label","Value":"_content/BasketAPI/jugadores/72480374-e573-499d-8e50-d6adfe44990e.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20078"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 08:11:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/81936c57-2c1b-41c6-b451-78eca6eb8bad.1jtv4sw889.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\81936c57-2c1b-41c6-b451-78eca6eb8bad.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"1jtv4sw889"},{"Name":"integrity","Value":"sha256-w\u002BQ4exwIGl/qzzZehVZ037XPRcit5c53jL22upK1YBs="},{"Name":"label","Value":"_content/BasketAPI/jugadores/81936c57-2c1b-41c6-b451-78eca6eb8bad.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"30124"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022w\u002BQ4exwIGl/qzzZehVZ037XPRcit5c53jL22upK1YBs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 07:46:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/81936c57-2c1b-41c6-b451-78eca6eb8bad.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\81936c57-2c1b-41c6-b451-78eca6eb8bad.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-w\u002BQ4exwIGl/qzzZehVZ037XPRcit5c53jL22upK1YBs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"30124"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022w\u002BQ4exwIGl/qzzZehVZ037XPRcit5c53jL22upK1YBs=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 07:46:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/825e58a5-3414-4ddf-a0ff-f85f17eee8f6.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\825e58a5-3414-4ddf-a0ff-f85f17eee8f6.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-7Nl5ScPbOj0T0kUMes/G7AE5UYo3dtyBYfGMNFHmeE0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"41434"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00227Nl5ScPbOj0T0kUMes/G7AE5UYo3dtyBYfGMNFHmeE0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 07:47:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/825e58a5-3414-4ddf-a0ff-f85f17eee8f6.ki9rt9bjn5.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\825e58a5-3414-4ddf-a0ff-f85f17eee8f6.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ki9rt9bjn5"},{"Name":"integrity","Value":"sha256-7Nl5ScPbOj0T0kUMes/G7AE5UYo3dtyBYfGMNFHmeE0="},{"Name":"label","Value":"_content/BasketAPI/jugadores/825e58a5-3414-4ddf-a0ff-f85f17eee8f6.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"41434"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00227Nl5ScPbOj0T0kUMes/G7AE5UYo3dtyBYfGMNFHmeE0=\u0022"},{"Name":"Last-Modified","Value":"Wed, 20 Nov 2024 07:47:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/9760501e-cb50-4de2-b410-41ca1b70f021.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\9760501e-cb50-4de2-b410-41ca1b70f021.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-1rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"62208"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00221rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 15:24:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/9760501e-cb50-4de2-b410-41ca1b70f021.uz2g6ojaey.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\9760501e-cb50-4de2-b410-41ca1b70f021.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"uz2g6ojaey"},{"Name":"integrity","Value":"sha256-1rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ="},{"Name":"label","Value":"_content/BasketAPI/jugadores/9760501e-cb50-4de2-b410-41ca1b70f021.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"62208"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u00221rYodc9yE2mkEl\u002BAGfaJVy6t0zSTrEJgsIe1U7r8NLQ=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 15:24:47 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/978dd6c8-0204-43d5-9773-1a79afdd233f.7a1b3hdkq1.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\978dd6c8-0204-43d5-9773-1a79afdd233f.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"7a1b3hdkq1"},{"Name":"integrity","Value":"sha256-wY0XDWvjW0Dgu3ojXDzyhfAHisTXiAzNVzRVdQWs38Q="},{"Name":"label","Value":"_content/BasketAPI/jugadores/978dd6c8-0204-43d5-9773-1a79afdd233f.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19049"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022wY0XDWvjW0Dgu3ojXDzyhfAHisTXiAzNVzRVdQWs38Q=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/978dd6c8-0204-43d5-9773-1a79afdd233f.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\978dd6c8-0204-43d5-9773-1a79afdd233f.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-wY0XDWvjW0Dgu3ojXDzyhfAHisTXiAzNVzRVdQWs38Q="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"19049"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022wY0XDWvjW0Dgu3ojXDzyhfAHisTXiAzNVzRVdQWs38Q=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:43:00 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/b614661e-dd68-430f-ba3b-cd6111b5915b.dpn2dkvzu2.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\b614661e-dd68-430f-ba3b-cd6111b5915b.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dpn2dkvzu2"},{"Name":"integrity","Value":"sha256-f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk="},{"Name":"label","Value":"_content/BasketAPI/jugadores/b614661e-dd68-430f-ba3b-cd6111b5915b.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"80870"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 11:50:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/b614661e-dd68-430f-ba3b-cd6111b5915b.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\b614661e-dd68-430f-ba3b-cd6111b5915b.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"80870"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk=\u0022"},{"Name":"Last-Modified","Value":"Mon, 25 Nov 2024 11:50:38 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/bfd5dec2-4c9f-4f3d-a216-d98b9cb38c75.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\bfd5dec2-4c9f-4f3d-a216-d98b9cb38c75.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"46454"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 09:10:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/bfd5dec2-4c9f-4f3d-a216-d98b9cb38c75.q1w2as5aoh.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\bfd5dec2-4c9f-4f3d-a216-d98b9cb38c75.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q1w2as5aoh"},{"Name":"integrity","Value":"sha256-vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ="},{"Name":"label","Value":"_content/BasketAPI/jugadores/bfd5dec2-4c9f-4f3d-a216-d98b9cb38c75.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"46454"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 19 Nov 2024 09:10:57 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/cd946875-723f-487c-9515-3a6358c3a534.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\cd946875-723f-487c-9515-3a6358c3a534.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"46454"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:42:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/cd946875-723f-487c-9515-3a6358c3a534.q1w2as5aoh.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\cd946875-723f-487c-9515-3a6358c3a534.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"q1w2as5aoh"},{"Name":"integrity","Value":"sha256-vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ="},{"Name":"label","Value":"_content/BasketAPI/jugadores/cd946875-723f-487c-9515-3a6358c3a534.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"46454"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022vhhSbbSI9wlIwXv19SgTzbXD8sDriT1JnOS4CYuRwAQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 28 Nov 2024 07:42:33 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/d15051b5-94d8-466a-85ed-c8bf18ddc4b5.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\d15051b5-94d8-466a-85ed-c8bf18ddc4b5.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"20078"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 27 Nov 2024 07:45:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/d15051b5-94d8-466a-85ed-c8bf18ddc4b5.mnq97130t7.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\d15051b5-94d8-466a-85ed-c8bf18ddc4b5.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mnq97130t7"},{"Name":"integrity","Value":"sha256-ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o="},{"Name":"label","Value":"_content/BasketAPI/jugadores/d15051b5-94d8-466a-85ed-c8bf18ddc4b5.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20078"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022ztVk0BP6DZ3TcFYJ1euiNF/7cM0c4hz9zNhr95aw22o=\u0022"},{"Name":"Last-Modified","Value":"Wed, 27 Nov 2024 07:45:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/d6bca24d-dd46-406e-bfb9-1c7390421766.dpn2dkvzu2.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\d6bca24d-dd46-406e-bfb9-1c7390421766.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dpn2dkvzu2"},{"Name":"integrity","Value":"sha256-f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk="},{"Name":"label","Value":"_content/BasketAPI/jugadores/d6bca24d-dd46-406e-bfb9-1c7390421766.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"80870"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 08:11:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/d6bca24d-dd46-406e-bfb9-1c7390421766.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\d6bca24d-dd46-406e-bfb9-1c7390421766.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"80870"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022f26AQ/3D8yn2EYplQ/buxQHLHBhIU2mPA2zOkRjLRkk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 08:11:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/d7eeec35-2c2d-411e-94da-8cf5105d9084.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\d7eeec35-2c2d-411e-94da-8cf5105d9084.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-FdkwuFuIsfw5V9TEOF6WqXQUhRLKO5lZAOgurEPTFco="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"40486"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022FdkwuFuIsfw5V9TEOF6WqXQUhRLKO5lZAOgurEPTFco=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Dec 2024 11:19:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/d7eeec35-2c2d-411e-94da-8cf5105d9084.pve72s2tnf.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\d7eeec35-2c2d-411e-94da-8cf5105d9084.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pve72s2tnf"},{"Name":"integrity","Value":"sha256-FdkwuFuIsfw5V9TEOF6WqXQUhRLKO5lZAOgurEPTFco="},{"Name":"label","Value":"_content/BasketAPI/jugadores/d7eeec35-2c2d-411e-94da-8cf5105d9084.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"40486"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022FdkwuFuIsfw5V9TEOF6WqXQUhRLKO5lZAOgurEPTFco=\u0022"},{"Name":"Last-Modified","Value":"Sun, 01 Dec 2024 11:19:11 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/d8c14f95-1233-4d96-b252-61e78895e9af.5gv9lu5ikg.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\d8c14f95-1233-4d96-b252-61e78895e9af.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5gv9lu5ikg"},{"Name":"integrity","Value":"sha256-i7uf1vbxFfHk1jSFL9L5tO8JbeNCCHPrQqE0p3LYAFs="},{"Name":"label","Value":"_content/BasketAPI/jugadores/d8c14f95-1233-4d96-b252-61e78895e9af.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"35497"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022i7uf1vbxFfHk1jSFL9L5tO8JbeNCCHPrQqE0p3LYAFs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 12:26:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/d8c14f95-1233-4d96-b252-61e78895e9af.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\d8c14f95-1233-4d96-b252-61e78895e9af.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-i7uf1vbxFfHk1jSFL9L5tO8JbeNCCHPrQqE0p3LYAFs="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"35497"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022i7uf1vbxFfHk1jSFL9L5tO8JbeNCCHPrQqE0p3LYAFs=\u0022"},{"Name":"Last-Modified","Value":"Mon, 02 Dec 2024 12:26:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/de21e578-57d5-4c09-a562-f5758b365a4a.vyiz8z12bv.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\de21e578-57d5-4c09-a562-f5758b365a4a.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"vyiz8z12bv"},{"Name":"integrity","Value":"sha256-x06NcmM1SV0GCCbUI2kRTV1mKyd\u002BvEWuXOGMUN8ukEc="},{"Name":"label","Value":"_content/BasketAPI/jugadores/de21e578-57d5-4c09-a562-f5758b365a4a.webp"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15264"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022x06NcmM1SV0GCCbUI2kRTV1mKyd\u002BvEWuXOGMUN8ukEc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 16:14:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/de21e578-57d5-4c09-a562-f5758b365a4a.webp">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\de21e578-57d5-4c09-a562-f5758b365a4a.webp'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-x06NcmM1SV0GCCbUI2kRTV1mKyd\u002BvEWuXOGMUN8ukEc="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15264"},{"Name":"Content-Type","Value":"image/webp"},{"Name":"ETag","Value":"\u0022x06NcmM1SV0GCCbUI2kRTV1mKyd\u002BvEWuXOGMUN8ukEc=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 16:14:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/e8da6221-e170-471c-bc31-c467a8cff5a3.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\e8da6221-e170-471c-bc31-c467a8cff5a3.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XP9skQpreJVgNKSwTEvHQeLvOlOk/4n8trsCI/IXtK8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"52258"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022XP9skQpreJVgNKSwTEvHQeLvOlOk/4n8trsCI/IXtK8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 08:11:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/e8da6221-e170-471c-bc31-c467a8cff5a3.wz15y5xz59.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\e8da6221-e170-471c-bc31-c467a8cff5a3.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wz15y5xz59"},{"Name":"integrity","Value":"sha256-XP9skQpreJVgNKSwTEvHQeLvOlOk/4n8trsCI/IXtK8="},{"Name":"label","Value":"_content/BasketAPI/jugadores/e8da6221-e170-471c-bc31-c467a8cff5a3.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"52258"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022XP9skQpreJVgNKSwTEvHQeLvOlOk/4n8trsCI/IXtK8=\u0022"},{"Name":"Last-Modified","Value":"Wed, 04 Dec 2024 08:11:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/fdd4482f-9457-40e2-8b23-33dd9023f37d.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\fdd4482f-9457-40e2-8b23-33dd9023f37d.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BLWMQMj2vC8UOMJnMUvdbUDkkRuUM324UqiyfDZKG5g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"26800"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022\u002BLWMQMj2vC8UOMJnMUvdbUDkkRuUM324UqiyfDZKG5g=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 13:58:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/BasketAPI/jugadores/fdd4482f-9457-40e2-8b23-33dd9023f37d.wqvlepls5n.jfif">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\jugadores\fdd4482f-9457-40e2-8b23-33dd9023f37d.jfif'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wqvlepls5n"},{"Name":"integrity","Value":"sha256-\u002BLWMQMj2vC8UOMJnMUvdbUDkkRuUM324UqiyfDZKG5g="},{"Name":"label","Value":"_content/BasketAPI/jugadores/fdd4482f-9457-40e2-8b23-33dd9023f37d.jfif"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26800"},{"Name":"Content-Type","Value":"image/pjpeg"},{"Name":"ETag","Value":"\u0022\u002BLWMQMj2vC8UOMJnMUvdbUDkkRuUM324UqiyfDZKG5g=\u0022"},{"Name":"Last-Modified","Value":"Mon, 18 Nov 2024 13:58:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

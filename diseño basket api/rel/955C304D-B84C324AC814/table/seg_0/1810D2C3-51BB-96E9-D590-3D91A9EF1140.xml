@@ -1,0 +1,76 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Table class="oracle.dbtools.crest.model.design.relational.Table" directorySegmentName="seg_0" id="1810D2C3-51BB-96E9-D590-3D91A9EF1140" name="TareaCategoria">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:15:24 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<ordsAlias>tareacategoriav1</ordsAlias>
+<allowColumnReorder>false</allowColumnReorder>
+<existDependencyGenerateInDDl>true</existDependencyGenerateInDDl>
+<parsed>true</parsed>
+<columns itemClass="oracle.dbtools.crest.model.design.relational.Column">
+<Column name="Categoria_Id" id="8263689D-CA3B-F7D9-F2B2-79A645AC6415">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:15:24 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="55BC032C-3871-1669-9325-F1F3EE4BAD95" referredColumn="7CCECACC-E8CE-D37C-F79C-82BE6FBE13F6"/>
+</associations>
+</Column>
+<Column name="Tarea_Id" id="A3F14162-87D4-9F7C-CEF8-CE554071B086">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:15:24 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<useDomainConstraints>false</useDomainConstraints>
+<use>1</use>
+<logicalDatatype>LOGDT018</logicalDatatype>
+<ownDataTypeParameters>,,</ownDataTypeParameters>
+<previousColumn>false</previousColumn>
+<autoIncrementCycle>false</autoIncrementCycle>
+<associations>
+<colAssociation fkAssociation="E989C21D-3D7C-0035-760C-9EE93981F5BF" referredColumn="D9CE7494-5E3D-19D6-D793-60071BECAB3F"/>
+</associations>
+</Column>
+</columns>
+<indexes itemClass="oracle.dbtools.crest.model.design.relational.Index">
+<ind_PK_UK id="3041A3C5-5836-1D66-905F-C05645F3518C" name="TareaCategoriav1_PK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:15:24 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<pk>true</pk>
+<indexState>Primary Constraint</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8263689D-CA3B-F7D9-F2B2-79A645AC6415"/>
+<colUsage columnID="A3F14162-87D4-9F7C-CEF8-CE554071B086"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="0CBF32D3-44EE-C153-F248-36677E6778CF" name="TareaCategoriav1_Categoria_FK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:15:24 UTC</createdTime>
+<generatorID>39B14971-1EF7-70F4-FA19-46EF05F2986F</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="8263689D-CA3B-F7D9-F2B2-79A645AC6415"/>
+</indexColumnUsage>
+</ind_PK_UK>
+<ind_PK_UK id="A07F5857-FF6D-52E0-0C94-DAA8663DFAA9" name="TareaCategoriav1_Tarea_FK">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 11:15:24 UTC</createdTime>
+<generatorID>39B14971-1EF7-70F4-FA19-46EF05F2986F</generatorID>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<indexState>Foreign Key</indexState>
+<isSurrogateKey>false</isSurrogateKey>
+<indexColumnUsage>
+<colUsage columnID="A3F14162-87D4-9F7C-CEF8-CE554071B086"/>
+</indexColumnUsage>
+</ind_PK_UK>
+</indexes>
+</Table>

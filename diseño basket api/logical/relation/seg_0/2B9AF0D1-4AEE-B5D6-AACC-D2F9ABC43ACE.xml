@@ -1,0 +1,22 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="PartidoJugador" directorySegmentName="seg_0" id="2B9AF0D1-4AEE-B5D6-AACC-D2F9ABC43ACE">
+<createdBy>PRACTICAS</createdBy>
+<createdTime>2024-11-29 10:43:12 UTC</createdTime>
+<ownerDesignName>diseño basket api</ownerDesignName>
+<engineerTo>
+<item key="955C304D-650B-828D-926C-B84C324AC814" value="true"/>
+</engineerTo>
+<sourcePk>B0339A63-ACFC-13AD-B1DE-06DAA0C6F2ED</sourcePk>
+<targetPk>D9BAF37B-69E3-4AD9-B944-1FB4111637EF</targetPk>
+<identifying>false</identifying>
+<nameOnSource>JugadorId</nameOnSource>
+<nameOnTarget>PartidoId</nameOnTarget>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>*</sourceCardinality>
+<sourceEntity>AF633B52-7CF1-1678-231B-139C9D31C01D</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>550651F6-D8A0-6D6E-DE20-3C44FD6D17C5</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
